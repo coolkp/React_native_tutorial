@@ -1,0 +1,4 @@
+#Tue Jul 02 15:54:03 PDT 2019
+base.0=/Users/kunjanpatel/Desktop/React_Native/PropertyFinder/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
